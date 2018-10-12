@@ -1405,6 +1405,7 @@ public class MParticle {
         int INSTABOT = 123;
         int APPSEE = 126;
         int TAPLYTICS = 129;
+        int FOLLOWANALYTICS = 132;
         String BROADCAST_ACTIVE = "MPARTICLE_SERVICE_PROVIDER_ACTIVE_";
         String BROADCAST_DISABLED = "MPARTICLE_SERVICE_PROVIDER_DISABLED_";
     }
